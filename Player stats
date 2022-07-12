@@ -1,2 +1,2 @@
 
-https://replit.com/login
+/titleraw @a actionbar {"rawtext":[{"text":" §6"},{"selector":"*"},{"text":" \n §3Time: §b"},{"score":{"name":"*","objective":"month"}},{"text":"mo "},{"score":{"name":"*","objective":"week"}},{"text":"w "},{"score":{"name":"*","objective":"day"}},{"text":"d "},{"score":{"name":"*","objective":"hour"}},{"text":"h "},{"score":{"name":"*","objective":"min"}},{"text":"m "},{"score":{"name":"*","objective":"sec"}},{"text":"s "}]}
