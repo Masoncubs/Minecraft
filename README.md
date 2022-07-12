@@ -23,3 +23,9 @@
 /execute @a[scores={day=7..}] ~ ~ ~ scoreboard players add @a week 1
 
 /execute @a[scores={day=7..}] ~ ~ ~ scoreboard players remove @a day 7
+
+--month command block--
+
+/execute @a[scores={week=30..}] ~ ~ ~ scoreboard players add @a month 1
+
+/execute @a[scores={week=30..}] ~ ~ ~ scoreboard players remove @a week 30
